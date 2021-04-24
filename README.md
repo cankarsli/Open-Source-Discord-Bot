@@ -11,4 +11,6 @@ This is open source discord bot for beginners
 **[Invite the original bot!](https://discord.com/oauth2/authorize?client_id=825738619553579010&permissions=470150262&scope=bot)**
 
 
+*A bot of a lot of bots source codes*
+
 
