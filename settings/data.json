@@ -1,0 +1,6 @@
+{
+    "token": "TOKEN HERE",
+    "mongo": "MONGO HERE",
+    "REDDIT_APP_ID": "APP ID HERE",
+    "REDDIT_APP_SECRET": "APP SECRET ID HERE"
+}
